@@ -51,7 +51,6 @@
 ---
 
 ### 🗂️ Featured Repositories  
-> (Pin these once you create/update them)
 
 - **🧠 leetcode-solutions-python** — clean & structured DSA solutions  
 - **🤖 ai-playground** — experiments with LLMs, LangChain, RAG, embeddings  
