@@ -32,7 +32,7 @@
 
 ### 📊 Coding Activity  
 <p>
-  <img src="https://leetcode.com/u/lovy1619/?theme=light&font=Karma" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/lovy1619?theme=light&font=Karma" alt="LeetCode Stats" />
 </p>
 
 ---
