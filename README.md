@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with Me  
 <p align="left">
-<a href="[https://linkedin.com/in/lovish1619](https://www.linkedin.com/in/lovish-mittal-72101b15b/)" target="_blank">
+<a href="https://www.linkedin.com/in/lovish-mittal-72101b15b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://twitter.com/lovish1619" target="_blank">
