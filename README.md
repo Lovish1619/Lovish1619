@@ -17,9 +17,6 @@
 <a href="https://www.linkedin.com/in/lovish-mittal-72101b15b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://twitter.com/lovish1619" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
@@ -35,7 +32,7 @@
 
 ### 📊 Coding Activity  
 <p>
-  <img src="https://leetcard.jacoblin.cool/lovish1619?theme=light&font=Karma" alt="leetcode stats" />
+  <img src="https://leetcode.com/u/lovy1619/?theme=light&font=Karma" alt="leetcode stats" />
 </p>
 
 ---
